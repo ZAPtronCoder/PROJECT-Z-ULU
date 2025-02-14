@@ -5,7 +5,7 @@ This modpack is meant to be an immersive experience taking a normally chill game
 
 ## THE GIST
 ### **Immerse into New Flesh**
-When creating a character, you must name it a reasonable name. Use proper capitalization in the name, use the randomized character name you get in the character creator for the best result. You can name them something like "Gordon Freeman" or "Patton Oswalt" or whatever sort of name you want. And when spawning in, choose a random location (spin a wheel, flip a coin, roll a dice, whatever works). Just become the character you play as, but be warned...
+When creating a character, you must name it a reasonable name. Use proper capitalization in the name, use the randomized character name you get in the character creator for the best result. You could name them something like "Gordon Freeman" or "Patton Oswalt" or whatever sort of name you want (just choose a name that nobody else would choose, don't choose something too iconic). And when spawning in, choose a random location (spin a wheel, flip a coin, roll a dice, whatever works). Just become the character you play as, but be warned...
 
 ### **Your Flesh is not the Same Flesh**
 ...upon death, you must create a character that is different to the character you last played (stats, profession, and name). You could return to where you died but maybe that's not the greatest idea. Also, *DO NOT CHEESE MECHANICS** like zombie infections, or writing your stats in a journal only to kill yourself to get a character with different stats, or generally just using immersion-breaking tactics to "make the game easier" or to completely get rid of any difficult aspect of the game.
@@ -21,8 +21,8 @@ I urge you to write things down in notebooks or jot down things on maps or piece
 
 ## GIST OF THE GIST
 - Make sure your character is different every death. Abandon the character you played as upon death.
-- Do not contact others outside of the game about things in the game.
-- Kill others if necessary, or if you want.
-- Loot whatever you want.
-- Document your experience.
+- Do not contact others outside of the game about things in the game. No using Discord to provide others with information.
+- Kill others if necessary, or if you want. Team with others if you can truely trust them.
+- Loot whatever you want, be it player bases or normal setpieces.
+- Document your experience in notebooks and annotated papers/maps.
 - Have fun.
